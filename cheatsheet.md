@@ -1,6 +1,7 @@
 cheatsheet
 
 code4lib Git workshop 08/04/2016
+Add a new branch
 
 global setup
 
